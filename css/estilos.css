@@ -3,3 +3,13 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.titulo {
+    color: white;
+    font-size: 4rem;
+}
+
+.cabeza {
+    display: flex;
+    justify-content: center;
+}
