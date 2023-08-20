@@ -1,5 +1,5 @@
 .cuerpo {
-    background-image: url(/img/pexels-vlad-alexandru-popa-1402787.jpg);
+    background-image: url('img/pexels-vlad-alexandru-popa-1402787.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
